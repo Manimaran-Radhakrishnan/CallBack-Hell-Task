@@ -1,0 +1,22 @@
+p{
+    margin: 0%;
+    background-image:-webkit-radial-gradient(orange,white,green);
+    text-align: center;
+    text-decoration:solid;
+    height: auto;
+    width: auto;
+    padding-bottom: 10px;
+    font-size: 80px;
+    color:black;
+}
+img{
+    width:auto;
+    height:auto;
+    margin-top: 0%;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+    
